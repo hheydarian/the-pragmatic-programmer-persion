@@ -14,15 +14,15 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/github/stars/hheydarian/the-pragmatic-programmer-parsion?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/stars/hheydarian/the-pragmatic-programmer-persion?style=social" alt="GitHub stars">
 
-  <img src="https://img.shields.io/github/forks/hheydarian/the-pragmatic-programmer-parsion?color=blueviolet" alt="GitHub forks">
+  <img src="https://img.shields.io/github/forks/hheydarian/the-pragmatic-programmer-persion?color=blueviolet" alt="GitHub forks">
 
-  <img src="https://img.shields.io/github/last-commit/hheydarian/the-pragmatic-programmer-parsion?color=9cf" alt="Last Commit">
+  <img src="https://img.shields.io/github/last-commit/hheydarian/the-pragmatic-programmer-persion?color=9cf" alt="Last Commit">
 
   <img src="https://img.shields.io/badge/Translation-100%25-success" alt="Translation Status">
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hheydarian.the-pragmatic-programmer-parsion" alt="Visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hheydarian.the-pragmatic-programmer-persion" alt="Visitors">
 
 </p>
 
@@ -94,7 +94,7 @@
 2. **اصلاح و بازبینی:** متن یا بخش‌های مورد نظر را اصلاح کنید.
 3. **کامیت و ارسال:** تغییرات را ثبت کرده و یک Pull Request تمیز ارسال فرمایید.
 
-> اگر سوال، ابهام یا پیشنهادی درباره مطالب یا ترجمه دارید، خوشحال می‌شویم آن را از طریق بخش **[Issues](https://github.com/hheydarian/the-pragmatic-programmer-parsion/issues)** مطرح کنید.
+> اگر سوال، ابهام یا پیشنهادی درباره مطالب یا ترجمه دارید، خوشحال می‌شویم آن را از طریق بخش **[Issues](https://github.com/hheydarian/the-pragmatic-programmer-persion/issues)** مطرح کنید.
 
 ---
 
