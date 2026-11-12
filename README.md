@@ -1,107 +1,116 @@
+<div dir="rtl">
+
 <p align="center">
-  <a href="https://github.com/hheydarian/the-pragmatic-programmer-parsion">
-    <img src="assets/image/Cover.jpg" alt="The Pragmatic Programmer Book Cover" width="400"/>
+  <a href="https://hheydarian.github.io/Gitab/books/book7/">
+    <img src="assets/image/Cover.jpg" alt="The Pragmatic Programmer Book Cover" width="380" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.25);"/>
   </a>
 </p>
 
-<h1 align="center"> ترجمه فارسی کتاب The Pragmatic Programmer</h1>
+<h1 align="center">🚀 ترجمه جامع و آزاد کتاب <span dir="ltr">The Pragmatic Programmer</span></h1>
 
 <p align="center">
-  راهنمایی برای تبدیل شدن از «کارجو» به «استادکار» در دنیای واقعی برنامه‌نویسی
+  <strong>مرجع کلاسیک مهندسی نرم‌افزار (ویرایش بیستم) برای پرورش تفکر عمل‌گرایانه، تسلط بر ابزار و استادکاری کدنویسی</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/hheydarian/the-pragmatic-programmer-parsion?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/hheydarian/the-pragmatic-programmer-parsion?color=blueviolet" alt="GitHub forks">
-  <img src="https://img.shields.io/github/last-commit/hheydarian/the-pragmatic-programmer-parsion?color=9cf" alt="Last Commit">
-  <img src="https://img.shields.io/badge/Translation-20%25-success" alt="Translation Status">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hheydarian.the-pragmatic-programmer-parsion" alt="Visitors">
+
+  <img src="https://img.shields.io/github/stars/hheydarian/the-pragmatic-programmer-persion?style=social" alt="GitHub stars">
+
+  <img src="https://img.shields.io/github/forks/hheydarian/the-pragmatic-programmer-persion?color=blueviolet" alt="GitHub forks">
+
+  <img src="https://img.shields.io/github/last-commit/hheydarian/the-pragmatic-programmer-persion?color=9cf" alt="Last Commit">
+
+  <img src="https://img.shields.io/badge/Translation-100%25-success" alt="Translation Status">
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hheydarian.the-pragmatic-programmer-persion" alt="Visitors">
+
 </p>
 
-<h1>
+---
+
+## 💡 چرا این پروژه؟
+
+کتاب **The Pragmatic Programmer: Your Journey To Mastery** نوشته‌ی *دیوید توماس (David Thomas)* و *اندرو هانت (Andrew Hunt)*، یکی از بنیادی‌ترین و الهام‌بخش‌ترین آثار تاریخ علوم کامپیوتر است که تفکر نقادانه، مسئولیت‌پذیری حرفه‌ای، تعامد و طراحی منعطف نرم‌افزار را آموزش می‌دهد.
+
+هدف ما در این پروژه اوپن‌سورس:
+* 🎯 **ترجمه‌ای روان، دقیق و امروزی** از ویرایش بیستم این شاهکار ماندگار
+* 💻 **ارائه رایگان تمامی فصل‌ها، تمرین‌ها و پاسخ‌ها** برای یادگیری عملی مفاهیم عمل‌گرایانه
+* 🌍 **غنی‌سازی منابع فارسی** برای کمک به رشد فکری و حرفه‌ای جامعه مهندسان نرم‌افزار
+
+---
 <p align="center">
-   <a href="https://hheydarian.github.io/Gitab/" target="_blank"><strong>  گیتاب — نسخه آنلاین ترجمه </strong></a>
+
+  ## ⚡ دسترسی سریع
+
+| مرجع | توضیحات | لینک |
+| :--- | :--- | :---: |
+| 📖 **نسخه وب (گیتاب)** | تجربه خواندن تعاملی با پوسته تاریک/روشن و جستجوی سریع | [ورود به گیتاب ↗](https://hheydarian.github.io/Gitab/books/book7/) |
+| 📥 **فصل‌های کتاب (Markdown)** | مشاهده و مطالعه مستقیم فایل‌های فارسی در پوشه فصل‌ها | [مشاهده پوشه Book ↗](Book/) |
+
+---
 </p>
-</h1>
+
+## 🔍 راهنمای خوانایی بهتر در گیت‌هاب
+
+برای اینکه متون فارسی در گیت‌هاب و مرورگر با خط استاندارد و چشم‌نواز نمایش داده شوند:
+1. افزونه رایگان **[فونت ایران (FontIran)](https://chromewebstore.google.com/detail/fontiran/edbchgkbejkdkdkpgenlaciegoidmjoh)** را روی مرورگر نصب کنید.
+2. فونت پیش‌فرض را روی **وزیرمتن (Vazirmatn)** یا **ایران‌یکان** قرار دهید تا خوانایی کدها و متن به اوج برسد.
 
 ---
 
-## ✨ معرفی پروژه
+## 📚 فهرست سرفصل‌ها
 
-کتاب **The Pragmatic Programmer** نوشتهٔ **Andrew Hunt** و **David Thomas** یکی از تأثیرگذارترین کتاب‌ها در تاریخ مهندسی نرم‌افزار است.  
-این اثر، نه صرفاً دربارهٔ کدنویسی، بلکه دربارهٔ طرز تفکر، تصمیم‌گیری و حرفه‌ای زیستنِ یک برنامه‌نویس است.  
-
-این ریپازیتوری تلاشی است برای ارائهٔ نسخه‌ای فارسی، دقیق و خوانا از این کتاب ماندگار برای جامعهٔ برنامه‌نویسان فارسی‌زبان.  
-هدف ما، ترجمه‌ای وفادار اما امروزی است که به رشد فکری و حرفه‌ای توسعه‌دهندگان کمک کند 🚀
-
----
-
-## ⚙️ پیش‌نیاز مطالعه
-
-🔹 آشنایی پایه با یک زبان برنامه‌نویسی کافی است — تمرکز این کتاب بر «تفکر نرم‌افزاری» است، نه صرفاً کد.  
-🔹 برای تجربهٔ بهتر در مرورگر، پیشنهاد می‌کنیم افزونه [فونت ایران](https://chromewebstore.google.com/detail/fontiran/edbchgkbejkdkdkpgenlaciegoidmjoh) را نصب کنید.
-
----
-
-## 🙌 راه‌های مشارکت
-
-ما از حضور شما در این پروژه استقبال می‌کنیم. می‌توانید از این راه‌ها مشارکت کنید:
-
-- ✏️ **بازبینی ترجمه و پیشنهاد بهبود متن**
-- 💬 **افزودن توضیحات فرهنگی یا فنی برای بومی‌سازی بهتر مفاهیم**
-- 🎨 **بهبود طراحی صفحات و تصاویر**
-
----
-
-## 🔗 فصل‌های کتاب (با لینک)
+تمامی **۱۵ بخش، فصل و پیوست** کتاب به طور کامل ترجمه شده و آماده مطالعه است:
 
 <div align="center">
-  
-| شماره | نام فصل (انگلیسی)                        | نام فصل (فارسی)                             | وضعیت | لینک                                               |
-|-------|-------------------------------------------|----------------------------------------------|--------|----------------------------------------------------|
-| 00    | Foreword                                  | پیش‌گفتار                                      | ✅     | [Foreword](Book/00/chapter00.md)
-| 00    | Preface to the Second Edition                                  | پیش‌گفتار ویرایش دوم                                    | ✅     | [Second-Edition](Book/00/chapter00-1.md)                     |
-| 00    | Preface to the First Edition                                 | پیش‌گفتار ویرایش اول                                    | ✅     | [First-Edition](Book/00/chapter00-2.md)                     |
-| 01    | A Pragmatic Philosophy                    | فلسفهٔ عملگرایانه                           | ✅     | [A-Pragmatic-Philosophy](Book/01/chapter01.md)     |
-| 02    | A Pragmatic Approach                      | رویکرد عملگرایانه                           | ✅     | [A-Pragmatic-Approach](Book/02/chapter02.md)         |
-| 03    | The Basic Tools                           | ابزارهای پایه                                | ✅     | [The-Basic-Tools](Book/03/chapter03.md)                   |
-| 04    | Pragmatic Paranoia                        | بدگمانی هوشمندانه                            | ✅     | [Pragmatic-Paranoia](Book/04/chapter04.md)             |
-| 05    | Bend or Break                             | انعطاف یا شکست                              | ✅     | [Bend-or-Break](Book/05/chapter05.md)                       |
-| 06    | Concurrency                      | همزمانی                        | ✅     | [Concurrency](Book/06/chapter06.md)         |
-| 07    | While You Are Coding                      | وقتی کدنویسی می‌کنید                        | ✅     | [While-You-Are-Coding](Book/07/chapter07.md)         |
-| 08    | Before the Project                        | پیش از پروژه                                 | ✅     | [Before-the-Project](Book/08/chapter08.md)             |
-| 09    | Pragmatic Projects                        | پروژه‌های عملگرایانه                         | ✅     | [Pragmatic-Projects](Book/09/chapter09.md)             |
-| 10    | Postface                                  | پیشنویس                                     | ✅     | [Postface](Book/10/chapter10.md)                                 |
-| 11    | A1                                  | کتاب‌شناسی                                    | ✅     | [A1](Book/11/chapter11.md)                                      |
-| 12    | A2                                   | پاسخ‌های برای تمرین‌ها                                    | ✅     | [A2](Book/12/chapter12.md)                                      |
+
+| شماره | نام سرفصل (انگلیسی) | عنوان فارسی | وضعیت | مطالعه مستقیم |
+| :---: | :--- | :--- | :---: | :---: |
+| **00** | Foreword | پیش‌گفتار | ✅ | [مطالعه فصل](Book/00/chapter00.md) |
+| **00.1** | Preface to the Second Edition | دیباچه ویرایش دوم | ✅ | [مطالعه فصل](Book/00/chapter00-1.md) |
+| **00.2** | Preface to the First Edition | دیباچه چاپ نخست | ✅ | [مطالعه فصل](Book/00/chapter00-2.md) |
+| **01** | A Pragmatic Philosophy | یک فلسفه عمل‌گرایانه | ✅ | [مطالعه فصل](Book/01/chapter01.md) |
+| **02** | A Pragmatic Approach | رویکردی عمل‌گرایانه | ✅ | [مطالعه فصل](Book/02/chapter02.md) |
+| **03** | The Basic Tools | ابزارهای پایه | ✅ | [مطالعه فصل](Book/03/chapter03.md) |
+| **04** | Pragmatic Paranoia | بدگمانی عمل‌گرایانه | ✅ | [مطالعه فصل](Book/04/chapter04.md) |
+| **05** | Bend, or Break | خم شو، یا بشکن | ✅ | [مطالعه فصل](Book/05/chapter05.md) |
+| **06** | Concurrency | همزمانی (Concurrency) | ✅ | [مطالعه فصل](Book/06/chapter06.md) |
+| **07** | While You Are Coding | در حین کدنویسی | ✅ | [مطالعه فصل](Book/07/chapter07.md) |
+| **08** | Before the Project | پیش از شروع پروژه | ✅ | [مطالعه فصل](Book/08/chapter08.md) |
+| **09** | Pragmatic Projects | پروژه‌های عمل‌گرایانه | ✅ | [مطالعه فصل](Book/09/chapter09.md) |
+| **10** | Postface | پس‌گفتار | ✅ | [مطالعه فصل](Book/10/chapter10.md) |
+| **11** | Appendix 1: Bibliography | پیوست ۱: کتاب‌نامه | ✅ | [مطالعه فصل](Book/11/chapter11.md) |
+| **12** | Appendix 2: Possible Answers to the Exercises | پیوست ۲: پاسخ‌های احتمالی برای تمرین‌ها | ✅ | [مطالعه فصل](Book/12/chapter12.md) |
 
 </div>
 
 ---
 
-## 🧩 اصول ساختاری پروژه
+## 🤝 مشارکت در پروژه (Contributions Welcome)
 
-- تمامی فصل‌ها با فرمت `.md` نگارش شده‌اند.  
-- تصاویر و دیاگرام‌ها در پوشه‌ی `assets/image/` قرار دارند.  
-- پروژه به‌صورت باز و قابل ویرایش طراحی شده تا مشارکت‌کنندگان بتوانند مستقیماً در بهبود ترجمه نقش داشته باشند.
+این یک پروژه اجتماعی متعلق به تمام توسعه‌دهندگان و علاقه‌مندان است. هر تصحیح نگارشی، بهبود در واژه‌گزینی‌های تخصصی یا بهینه‌سازی ساختار متن، ارزش این منبع را دوچندان می‌کند:
 
----
+1. **فورک کنید (Fork):** ریپازیتوری را فورک کرده و یک برنچ جدید بسازید (`git checkout -b feature/edit-chapter-01`).
+2. **اصلاح و بازبینی:** متن یا بخش‌های مورد نظر را اصلاح کنید.
+3. **کامیت و ارسال:** تغییرات را ثبت کرده و یک Pull Request تمیز ارسال فرمایید.
 
-## 🛡️ مجوز و حقوق نشر
-
-<ul dir="rtl">
-<li><b>حقوق نشر کتاب اصلی:</b> © Andrew Hunt و David Thomas (نشر Addison-Wesley)</li>
-<li><b>متن ترجمه:</b> تحت مجوز <code>CC BY-NC-SA 4.0</code> منتشر می‌شود.</li>
-<li><b>نمونه‌کدها و تمرین‌ها:</b> تحت مجوز <code>MIT License</code> منتشر شده‌اند.</li>
-</ul>
+> اگر سوال، ابهام یا پیشنهادی درباره مطالب یا ترجمه دارید، خوشحال می‌شویم آن را از طریق بخش **[Issues](https://github.com/hheydarian/the-pragmatic-programmer-persion/issues)** مطرح کنید.
 
 ---
 
-## 🌟 قدردانی
+## ⚖️ مجوز و حقوق مالکیت معنوی
 
-سپاس از همهٔ کسانی که برای گسترش دانش نرم‌افزار در جامعهٔ فارسی تلاش می‌کنند.  
-💬 هر مشارکت شما، قدمی در مسیر بهتر شدن این منبع ارزشمند است.
+* **کتاب اصلی:** حقوق نشر و مادی/معنوی اثر اصلی متعلق به **David Thomas**، **Andrew Hunt** و انتشارات **Addison-Wesley** است.
+* **فایل‌های مخزن و کدهای نمونه:** مطابق فایل [LICENSE](LICENSE) تحت مجوز آزاد **MIT License** منتشر شده و ترجمه فارسی تحت شرایط غیرتجاری **CC BY-NC-SA 4.0** ارائه می‌شود.
 
 ---
 
-<p align="center">ساخته شده با ❤️ برای برنامه‌نویسان عملگرا</p>
+<p align="center">
+  ⭐ <strong>اگر این ترجمه و ریپازیتوری به یادگیری شما کمک کرده، با دادن یک ستاره (Star) به دیده شدنش توسط دیگران کمک کنید!</strong> ⭐
+</p>
+
+<p align="center">
+  ساخته شده با ❤️ و عشق به توسعه‌دهندگان فارسی‌زبان
+</p>
+
+</div>
